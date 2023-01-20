@@ -2,9 +2,12 @@
 
 NOTE:
 Make sure to update bash (especially if you are using a raspberry pi!)
+
 ```sudo apt-get update
 sudo apt-get upgrade
-sudo reboot```
+sudo reboot
+```
+
 
 
 Go home
