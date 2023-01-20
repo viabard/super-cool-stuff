@@ -14,7 +14,6 @@ Make a Github folder in ~ if you haven't already (why not???)
 ```
 cd
 mkdir ~/Github
-cd Github
 ```
 
 Clone it
