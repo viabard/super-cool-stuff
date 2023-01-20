@@ -14,7 +14,6 @@ Make a Github folder in ~ if you haven't already (why not???)
 ```
 cd
 mkdir ~/Github
-cd Github
 ```
 
 Clone it
@@ -43,3 +42,7 @@ sh .vim_runtime/install_awesome_vimrc.sh
 
 
 You should be good!
+You might need to source your .bashrc
+```
+source ~/.bashrc
+```
